@@ -1,5 +1,5 @@
 ### Hi there 👋
-![photo of Allison LinkedIn Profile](https://media.licdn.com/dms/image/C4D03AQHrWWrU0BWl5A/profile-displayphoto-shrink_800_800/0/1663843799485?e=1687392000&v=beta&t=nBcqtXqfh8HY_AodsUwM4HsXOe6Kl493Y43hDNeNcro)
+<!-- ![photo of Allison LinkedIn Profile](https://media.licdn.com/dms/image/C4D03AQHrWWrU0BWl5A/profile-displayphoto-shrink_800_800/0/1663843799485?e=1687392000&v=beta&t=nBcqtXqfh8HY_AodsUwM4HsXOe6Kl493Y43hDNeNcro) -->
 
 ## I'm **Allison Turner**, a ✨ _Software Developer_ ✨. Welcome to my `README.md` (this file) to see what I have been working on and learning through my journey.
 
